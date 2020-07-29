@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESN5DNtjuL3/Ym2AgD/mVOQwymS1cOiM3y6BHB32C5ka+lKkJAui723ihhC4JgmwYhOaD/ovTat0PND/TAr2Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcao\\source\\repos\\game1\\game1.Web\\game1.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcao\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\lcao\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\lcao\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\lcao\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

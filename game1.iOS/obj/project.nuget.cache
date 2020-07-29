@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oKuCdoMgaYMNHSaU0xFQNfcITyIRamAb55F1EHx7Hjp7w4pEu6f5Ik04p0sCOaLfEP5x2XO5KA8eIbDcgGjDDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcao\\source\\repos\\game1\\game1.iOS\\game1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcao\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\lcao\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
